@@ -1,2 +1,3 @@
-# hyper-news-aggregator-23wi
-A news aggregation service for modern development workflows
+# Hyper News Aggregator 23Wi
+
+A news aggregation service for modern development workflows.
